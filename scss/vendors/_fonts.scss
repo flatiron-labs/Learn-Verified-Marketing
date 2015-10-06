@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'bebas_neue';
+    src: url('../fonts/bebasneue_bold-webfont.eot');
+    src: url('../fonts/bebasneue_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bebasneue_bold-webfont.svg') format('svg'),
+         url('../fonts/bebasneue_bold-webfont.woff') format('woff'),
+         url('../fonts/bebasneue_bold-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nimbus_sans';
+    src: url('../fonts/urw_-_nimbussan-lig-webfont.eot');
+    src: url('../fonts/urw_-_nimbussan-lig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/urw_-_nimbussan-lig-webfont.svg') format('svg'),
+         url('../fonts/urw_-_nimbussan-lig-webfont.woff') format('woff'),
+         url('../fonts/urw_-_nimbussan-lig-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nimbus_sans';
+    src: url('../fonts/urw_-_nimbussan-bol-webfont.eot');
+    src: url('../fonts/urw_-_nimbussan-bol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/urw_-_nimbussan-bol-webfont.svg') format('svg'),
+         url('../fonts/urw_-_nimbussan-bol-webfont.woff') format('woff'),
+         url('../fonts/urw_-_nimbussan-bol-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
