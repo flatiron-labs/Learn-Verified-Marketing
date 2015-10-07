@@ -3613,4 +3613,13 @@ input[type="submit"] {
 	padding-left: 7%;
 }
 
+.hbspt-form .hs-form-required {
+	padding-left: 0;
+}
+
+.hbspt-form .hs-error-msgs label {
+	color: #f4f8f9;
+	margin-left: 7%;
+}
+
 
